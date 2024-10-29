@@ -1,0 +1,182 @@
+[
+	{
+		"name": "Andaman and Nicobar Islands",
+		"code": "AN",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Chandigarh",
+		"code": "CH",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Dadra and Nagar Haveli",
+		"code": "DN",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Daman and Diu",
+		"code": "DD",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Delhi",
+		"code": "DL",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Lakshadweep",
+		"code": "LD",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Puducherry",
+		"code": "PY",
+		"subdivision": "Union territory"
+	},
+	{
+		"name": "Andhra Pradesh",
+		"code": "AP",
+		"subdivision": "state"
+	},
+	{
+		"name": "Arunachal Pradesh",
+		"code": "AR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Assam",
+		"code": "AS",
+		"subdivision": "state"
+	},
+	{
+		"name": "Bihar",
+		"code": "BR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Chhattisgarh",
+		"code": "CT",
+		"subdivision": "state"
+	},
+	{
+		"name": "Goa",
+		"code": "GA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Gujarat",
+		"code": "GJ",
+		"subdivision": "state"
+	},
+	{
+		"name": "Haryana",
+		"code": "HR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Himachal Pradesh",
+		"code": "HP",
+		"subdivision": "state"
+	},
+	{
+		"name": "Jammu and Kashmir",
+		"code": "JK",
+		"subdivision": "state"
+	},
+	{
+		"name": "Jharkhand",
+		"code": "JH",
+		"subdivision": "state"
+	},
+	{
+		"name": "Karnataka",
+		"code": "KA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Kerala",
+		"code": "KL",
+		"subdivision": "state"
+	},
+	{
+		"name": "Madhya Pradesh",
+		"code": "MP",
+		"subdivision": "state"
+	},
+	{
+		"name": "Maharashtra",
+		"code": "MH",
+		"subdivision": "state"
+	},
+	{
+		"name": "Manipur",
+		"code": "MN",
+		"subdivision": "state"
+	},
+	{
+		"name": "Meghalaya",
+		"code": "ML",
+		"subdivision": "state"
+	},
+	{
+		"name": "Mizoram",
+		"code": "MZ",
+		"subdivision": "state"
+	},
+	{
+		"name": "Nagaland",
+		"code": "NL",
+		"subdivision": "state"
+	},
+	{
+		"name": "Odisha",
+		"code": "OR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Punjab",
+		"code": "PB",
+		"subdivision": "state"
+	},
+	{
+		"name": "Rajasthan",
+		"code": "RJ",
+		"subdivision": "state"
+	},
+	{
+		"name": "Sikkim",
+		"code": "SK",
+		"subdivision": "state"
+	},
+	{
+		"name": "Tamil Nadu",
+		"code": "TN",
+		"subdivision": "state"
+	},
+	{
+		"name": "Telangana",
+		"code": "TG",
+		"subdivision": "state"
+	},
+	{
+		"name": "Tripura",
+		"code": "TR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Uttar Pradesh",
+		"code": "UP",
+		"subdivision": "state"
+	},
+	{
+		"name": "Uttarakhand",
+		"code": "UT",
+		"subdivision": "state"
+	},
+	{
+		"name": "West Bengal",
+		"code": "WB",
+		"subdivision": "state"
+	}
+]
